@@ -1,0 +1,14 @@
+# Visual Studio (user/machine state)
+.vs/
+*.user
+*.suo
+# Build outputs
+x64/
+Debug/
+Release/
+*.exe
+*.pdb
+*.ilk
+
+CMakeFiles/
+CMakeCache.txt

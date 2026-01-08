@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPP_Refresher", "CPP_Refresher\CPP_Refresher.vcxproj", "{CF78871E-5810-4B55-9A74-5704DD3DA7FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF78871E-5810-4B55-9A74-5704DD3DA7FC}.Debug|x64.ActiveCfg = Debug|x64
+		{CF78871E-5810-4B55-9A74-5704DD3DA7FC}.Debug|x64.Build.0 = Debug|x64
+		{CF78871E-5810-4B55-9A74-5704DD3DA7FC}.Debug|x86.ActiveCfg = Debug|Win32
+		{CF78871E-5810-4B55-9A74-5704DD3DA7FC}.Debug|x86.Build.0 = Debug|Win32
+		{CF78871E-5810-4B55-9A74-5704DD3DA7FC}.Release|x64.ActiveCfg = Release|x64
+		{CF78871E-5810-4B55-9A74-5704DD3DA7FC}.Release|x64.Build.0 = Release|x64
+		{CF78871E-5810-4B55-9A74-5704DD3DA7FC}.Release|x86.ActiveCfg = Release|Win32
+		{CF78871E-5810-4B55-9A74-5704DD3DA7FC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EC69028-87D3-4D4B-BB78-34AD331BE9BE}
+	EndGlobalSection
+EndGlobal
