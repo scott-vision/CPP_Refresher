@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "Hello New Branch!\n";
+    std::cout << "Hello New Potential Conflict!\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
